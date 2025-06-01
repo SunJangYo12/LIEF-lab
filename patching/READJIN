@@ -1,2 +1,4 @@
-edit patched_binary using cutter, saat edit dicutter akan otomatis tersimpan ke binary
+1.) edit patched_binary using cutter, saat edit dicutter akan otomatis tersimpan ke binary
 intruksinya dan untuk mengecek harus keluar dari cutter
+
+2.) menambah jmp <hasil-python> di cutter misalnya difungsi main juga ketrigger payloadnya
